@@ -1,0 +1,185 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\scala_dev\projects\futures\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.0
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+35 items
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$2$$anonfun$apply$12.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$2.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncCountFiles$1$$anonfun$apply$mcI$sp$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncCountFiles$1$$anonfun$apply$mcI$sp$2.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncCountFiles$1$$anonfun$apply$mcI$sp$3.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncCountFiles$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncFindFiles$1$$anonfun$apply$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncFindFiles$1$$anonfun$apply$2.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncFindFiles$1$$anonfun$apply$3.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncFindFiles$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$countFiles$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$countFiles$2.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$countFiles$3.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAll$1$$anonfun$apply$4.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAll$1$$anonfun$apply$5.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAll$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllFlat$1$$anonfun$apply$10.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllFlat$1$$anonfun$apply$9.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllFlat$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllNested$1$$anonfun$apply$6.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllNested$1$$anonfun$apply$7.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllNested$1$$anonfun$apply$8.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllNested$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$findFiles$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$findFiles$2.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$findFiles$3.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$main$1$$anonfun$apply$11.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$main$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$main$2.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$main$3$$anonfun$apply$13.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$main$3.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$topLevelDirs$1$$anonfun$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$topLevelDirs$1.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$.class
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures.class
+binary dependencies:
+2 items
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> c:\Program Files\Java\jdk1.7.0_60\jre\lib\rt.jar
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> C:\Users\MICHAEL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+35 items
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$2
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$2$$anonfun$apply$12
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$asyncCountFiles$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$asyncCountFiles$1$$anonfun$apply$mcI$sp$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$asyncCountFiles$1$$anonfun$apply$mcI$sp$2
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$asyncCountFiles$1$$anonfun$apply$mcI$sp$3
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$asyncFindFiles$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$asyncFindFiles$1$$anonfun$apply$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$asyncFindFiles$1$$anonfun$apply$2
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$asyncFindFiles$1$$anonfun$apply$3
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$countFiles$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$countFiles$2
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$countFiles$3
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$doitAll$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$doitAll$1$$anonfun$apply$4
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$doitAll$1$$anonfun$apply$5
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$doitAllFlat$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$doitAllFlat$1$$anonfun$apply$10
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$doitAllFlat$1$$anonfun$apply$9
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$doitAllNested$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$doitAllNested$1$$anonfun$apply$6
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$doitAllNested$1$$anonfun$apply$7
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$doitAllNested$1$$anonfun$apply$8
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$findFiles$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$findFiles$2
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$findFiles$3
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$main$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$main$1$$anonfun$apply$11
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$main$2
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$main$3
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$main$3$$anonfun$apply$13
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$topLevelDirs$1
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> com.milo.futures.MyFutures$$anonfun$topLevelDirs$1$$anonfun$1
+used names:
+0 items
+product stamps:
+35 items
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$2$$anonfun$apply$12.class -> lastModified(1408956031609)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$2.class -> lastModified(1408956031588)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncCountFiles$1$$anonfun$apply$mcI$sp$1.class -> lastModified(1408956031661)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncCountFiles$1$$anonfun$apply$mcI$sp$2.class -> lastModified(1408956031679)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncCountFiles$1$$anonfun$apply$mcI$sp$3.class -> lastModified(1408956031696)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncCountFiles$1.class -> lastModified(1408956031641)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncFindFiles$1$$anonfun$apply$1.class -> lastModified(1408956031733)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncFindFiles$1$$anonfun$apply$2.class -> lastModified(1408956031752)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncFindFiles$1$$anonfun$apply$3.class -> lastModified(1408956031772)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$asyncFindFiles$1.class -> lastModified(1408956031719)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$countFiles$1.class -> lastModified(1408956031789)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$countFiles$2.class -> lastModified(1408956031812)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$countFiles$3.class -> lastModified(1408956031832)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAll$1$$anonfun$apply$4.class -> lastModified(1408956031877)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAll$1$$anonfun$apply$5.class -> lastModified(1408956031896)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAll$1.class -> lastModified(1408956031858)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllFlat$1$$anonfun$apply$10.class -> lastModified(1408956031944)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllFlat$1$$anonfun$apply$9.class -> lastModified(1408956031963)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllFlat$1.class -> lastModified(1408956031920)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllNested$1$$anonfun$apply$6.class -> lastModified(1408956032008)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllNested$1$$anonfun$apply$7.class -> lastModified(1408956032026)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllNested$1$$anonfun$apply$8.class -> lastModified(1408956032045)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$doitAllNested$1.class -> lastModified(1408956031990)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$findFiles$1.class -> lastModified(1408956032070)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$findFiles$2.class -> lastModified(1408956032090)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$findFiles$3.class -> lastModified(1408956032108)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$main$1$$anonfun$apply$11.class -> lastModified(1408956032151)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$main$1.class -> lastModified(1408956032132)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$main$2.class -> lastModified(1408956032168)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$main$3$$anonfun$apply$13.class -> lastModified(1408956032219)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$main$3.class -> lastModified(1408956032202)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$topLevelDirs$1$$anonfun$1.class -> lastModified(1408956032264)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$$anonfun$topLevelDirs$1.class -> lastModified(1408956032240)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures$.class -> lastModified(1408956031535)
+C:\scala_dev\projects\futures\target\scala-2.10\classes\com\milo\futures\MyFutures.class -> lastModified(1408956031344)
+source stamps:
+1 items
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> hash(5fe48a259280c46134acd8de8826db83f387bc57)
+binary stamps:
+2 items
+c:\Program Files\Java\jdk1.7.0_60\jre\lib\rt.jar -> lastModified(1403129098184)
+C:\Users\MICHAEL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.0.jar -> lastModified(1355988554000)
+class names:
+2 items
+c:\Program Files\Java\jdk1.7.0_60\jre\lib\rt.jar -> java.lang.Object
+C:\Users\MICHAEL\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.0.jar -> scala.package$
+internal apis:
+1 items
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD4eQUNAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAaY29tLm1pbG8uZnV0dXJlcy5NeUZ1dHVyZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AC8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4ANnNxAH4ALwF1cQB+ABAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ABZxAH4AIHVxAH4AIQAAAABzcQB+ACMAdAAEbWFpbnVxAH4AJgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA1dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AUnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAcTAADdHBlcQB+AD54cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AEZbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ADVzcQB+AEV0AAVBcnJheXEAfgBLdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AEV0AAZTdHJpbmdzcQB+AElzcQB+AEx1cQB+AE8AAAADc3EAfgBRdAAEamF2YXNxAH4AUXQABGxhbmdxAH4AVnBzcQB+AC8BdXEAfgAQAAAAAHBzcQB+AC8BdXEAfgBqAAAAAnNxAH4ARXQABk9iamVjdHEAfgBuc3EAfgBFdAADQW55cQB+AEtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQACGNvbS5taWxvc3EAfgB/dAAQY29tLm1pbG8uZnV0dXJlc3NxAH4Af3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSAxSetJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAA3Qzpcc2NhbGFfZGV2XHByb2plY3RzXGZ1dHVyZXNcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFF/kiiWSgMRhNKzY3ogm24Pzh7xX
+external apis:
+0 items
+source infos:
+1 items
+C:\scala_dev\projects\futures\src\main\scala\com\milo\futures\MyFutures.scala -> 
+AAAAAAAAAAUAAAEAAAAUABIgICAgZm9sZGVycyB0b0xpc3QBAAACFQEAAAAMAQAMICAgICAgICAgICAgAQBNQzpcc2NhbGFfZGV2XHByb2plY3RzXGZ1dHVyZXNcc3JjXG1haW5cc2NhbGFcY29tXG1pbG9cZnV0dXJlc1xNeUZ1dHVyZXMuc2NhbGEBAE1DOlxzY2FsYV9kZXZccHJvamVjdHNcZnV0dXJlc1xzcmNcbWFpblxzY2FsYVxjb21cbWlsb1xmdXR1cmVzXE15RnV0dXJlcy5zY2FsYQFlcG9zdGZpeCBvcGVyYXRvciB0b0xpc3Qgc2hvdWxkIGJlIGVuYWJsZWQKYnkgbWFraW5nIHRoZSBpbXBsaWNpdCB2YWx1ZSBsYW5ndWFnZS5wb3N0Zml4T3BzIHZpc2libGUuClRoaXMgY2FuIGJlIGFjaGlldmVkIGJ5IGFkZGluZyB0aGUgaW1wb3J0IGNsYXVzZSAnaW1wb3J0IHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMnCm9yIGJ5IHNldHRpbmcgdGhlIGNvbXBpbGVyIG9wdGlvbiAtbGFuZ3VhZ2U6cG9zdGZpeE9wcy4KU2VlIHRoZSBTY2FsYSBkb2NzIGZvciB2YWx1ZSBzY2FsYS5sYW5ndWFnZS5wb3N0Zml4T3BzIGZvciBhIGRpc2N1c3Npb24Kd2h5IHRoZSBmZWF0dXJlIHNob3VsZCBiZSBleHBsaWNpdGx5IGVuYWJsZWQuAQAAAQAAABoAMSAgICBmb2xkZXIgbGlzdEZpbGVzKCkgZmlsdGVyIChfLmlzRmlsZSgpKSB0b0xpc3QBAAAC2QEAAAArAQArICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEATUM6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHNyY1xtYWluXHNjYWxhXGNvbVxtaWxvXGZ1dHVyZXNcTXlGdXR1cmVzLnNjYWxhAQBNQzpcc2NhbGFfZGV2XHByb2plY3RzXGZ1dHVyZXNcc3JjXG1haW5cc2NhbGFcY29tXG1pbG9cZnV0dXJlc1xNeUZ1dHVyZXMuc2NhbGEAY3Bvc3RmaXggb3BlcmF0b3IgdG9MaXN0IHNob3VsZCBiZSBlbmFibGVkCmJ5IG1ha2luZyB0aGUgaW1wbGljaXQgdmFsdWUgbGFuZ3VhZ2UucG9zdGZpeE9wcyB2aXNpYmxlLgEAAAEAAAAgADEgICAgZm9sZGVyIGxpc3RGaWxlcygpIGZpbHRlciAoXy5pc0ZpbGUoKSkgdG9MaXN0AQAAA4kBAAAAKwEAKyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAE1DOlxzY2FsYV9kZXZccHJvamVjdHNcZnV0dXJlc1xzcmNcbWFpblxzY2FsYVxjb21cbWlsb1xmdXR1cmVzXE15RnV0dXJlcy5zY2FsYQEATUM6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHNyY1xtYWluXHNjYWxhXGNvbVxtaWxvXGZ1dHVyZXNcTXlGdXR1cmVzLnNjYWxhAGNwb3N0Zml4IG9wZXJhdG9yIHRvTGlzdCBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIGxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAAAJgA4ICAgIChmb2xkZXIgbGlzdEZpbGVzKCkgZmlsdGVyIChfLmlzRmlsZSgpKSB0b0xpc3QpLnNpemUBAAAENgEAAAAsAQAsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAE1DOlxzY2FsYV9kZXZccHJvamVjdHNcZnV0dXJlc1xzcmNcbWFpblxzY2FsYVxjb21cbWlsb1xmdXR1cmVzXE15RnV0dXJlcy5zY2FsYQEATUM6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHNyY1xtYWluXHNjYWxhXGNvbVxtaWxvXGZ1dHVyZXNcTXlGdXR1cmVzLnNjYWxhAGNwb3N0Zml4IG9wZXJhdG9yIHRvTGlzdCBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIGxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAAALAA4ICAgIChmb2xkZXIgbGlzdEZpbGVzKCkgZmlsdGVyIChfLmlzRmlsZSgpKSB0b0xpc3QpLnNpemUBAAAE/AEAAAAsAQAsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAE1DOlxzY2FsYV9kZXZccHJvamVjdHNcZnV0dXJlc1xzcmNcbWFpblxzY2FsYVxjb21cbWlsb1xmdXR1cmVzXE15RnV0dXJlcy5zY2FsYQEATUM6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHNyY1xtYWluXHNjYWxhXGNvbVxtaWxvXGZ1dHVyZXNcTXlGdXR1cmVzLnNjYWxhAGNwb3N0Zml4IG9wZXJhdG9yIHRvTGlzdCBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIGxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4B
+compilations:
+9 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSAmPjJ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSAmYMxd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSAmbI151cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSAmbyyV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSAmc7R51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSAmecGZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSAxMYzB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSAxP5Sl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSAxSetJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0M6XHNjYWxhX2Rldlxwcm9qZWN0c1xmdXR1cmVzXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
